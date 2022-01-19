@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.microsoft.com/en-us/research/people/penzhan/'>work page</a>
 
 profile:
   align: right

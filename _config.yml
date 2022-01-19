@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: pzzhang# your GitHub user name
+github_username: pzzhang # your GitHub user name
 # gitlab_username: # your GitLab user name
 twitter_username: PengchuanZ # your Twitter handle
 linkedin_username: pengchuan-zhang-28ba9066 # your LinkedIn user name
@@ -72,7 +72,7 @@ work_url: https://www.microsoft.com/en-us/research/people/penzhan/ # work page U
 # stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please reach me via my email penzhan@microsoft.com 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
