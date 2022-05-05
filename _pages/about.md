@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Microsoft Building 99</p>
-    <p>Redmond, WA 98052</p>
+    <p>Meta AI for VR</p>
+    <p>Menlo Park, CA 94025</p>
     <p>United States</p>
 
 news: true  # includes a list of news items
