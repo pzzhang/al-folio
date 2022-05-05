@@ -6,7 +6,7 @@ title: # the website title (if blank, full name will be used instead)
 first_name: Pengchuan
 middle_name: 
 last_name: Zhang
-email: penzhan@microsoft.com
+email: pengchuanzhang@fb.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm AI research scientist at Meta AI for VR and an affiliate assistant professor in the department of Electrical Engineering, University of Washington. I was a principal researcher at Microsoft Research, Redmond. Before joining Microsoft, I obtained my PhD degree in Applied and Computational Mathematics from Caltech in 2017. My research interests are mainly in the areas of deep learning, computer vision, multimodal intelligence, and theoretical foundations for deep learning. 
 footer_text: >
@@ -65,14 +65,14 @@ orcid_id: 0000-0003-1155-9507 # your ORCID ID
 # publons_id: # your ID on Publons
 # research_gate_profile: # your profile on ResearchGate
 # blogger_url: # your blogger URL
-work_url: https://www.microsoft.com/en-us/research/people/penzhan/ # work page URL
+work_url: https://scholar.google.com/citations?user=3VZ_E64AAAAJ&hl=en # work page URL
 # keybase_username: # your keybase user name
 # wikidata_id: # your wikidata id
 # dblp_url: # your DBLP profile url
 # stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Please reach me via my email penzhan@microsoft.com 
+  Please reach me via my email pengchuanzhang@fb.com 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
